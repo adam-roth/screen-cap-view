@@ -46,7 +46,7 @@ There are a few limitations to be aware of when using this class:
 **_Why create this utility?_**<br />
 It's a funny story, actually.  I was reviewing some work submitted by an overseas contractor; it was full of bugs, the vast majority graphical.  Many of them only appeared when interacting with the UI in a particular way.  Textual descriptions of the issues were too clunky, and even screenshots were inadequate at properly documenting and describing the nature of the issues.  So I implemented this class so that I could quickly and easily record a video for each UI bug that I found.
 
-That said, this thing probably works just as good at created demo videos as it does for pointing out bugs.
+That said, this thing probably works just as well at creating demo videos as it does for pointing out bugs.
 
 **_Why should I use this library?_**<br />
 This code works reasonably well for capturing screen content.  Use it if you want to do that.
