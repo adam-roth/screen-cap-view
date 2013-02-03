@@ -35,7 +35,7 @@ There are a few limitations to be aware of when using this class:
 
 1.  If you want to record a `UIScrollView` you need to implement your `UIScrollViewDelegate` such that it calls `setNeedsDisplay` on the `IAScreenCaptureView` while the `UIScrollView` is scrolling. 
 
-2.  Currently only video is captured.  It should be possible to capture audio as well as video, but I have not had time to add this functionality.  If you happend to add it, feel free to send a pull request.
+2.  Currently only video is captured.  It should be possible to capture audio as well as video, but I have not had time to add this functionality.  If you happen to add it, feel free to send a pull request.
 
 3.  I have not tested this class to see if it can record OpenGL-based views.  I suspect that it probably cannot, however. 
 
